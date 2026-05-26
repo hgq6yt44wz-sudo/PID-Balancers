@@ -1,0 +1,25 @@
+project:
+  type: website
+  resources:
+    - "STL_Files/"
+    - "PID_Images/"
+
+
+website:
+  title: "PID_Ball_Balancer"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+
+format:
+  html:
+    theme: cosmo
+    toc: true
+    toc-depth: 3
+    code-fold: true
+    code-copy: true
+    code-overflow: scroll
+    number-sections: true
+
+

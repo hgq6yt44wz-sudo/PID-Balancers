@@ -1,0 +1,4 @@
+- source: project
+  posit-connect-cloud:
+    - id: 019e61d6-2aa8-2219-68a3-dc7725aed630
+      url: https://connect.posit.cloud/jacobm/content/019e61d6-2aa8-2219-68a3-dc7725aed630
